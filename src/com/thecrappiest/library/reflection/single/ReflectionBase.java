@@ -1,4 +1,4 @@
-package com.thecrappiest.library.reflection;
+package com.thecrappiest.library.reflection.single;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
